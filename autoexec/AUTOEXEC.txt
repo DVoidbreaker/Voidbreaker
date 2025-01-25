@@ -1,2 +1,0 @@
--- DO NOT DELETE THIS FILE!!!!!!
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Insalad/SaladAPI/refs/heads/main/Funcs"))()
